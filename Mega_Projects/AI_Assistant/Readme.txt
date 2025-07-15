@@ -4,7 +4,7 @@ Before Running the code, make sure to type these commands in the terminal (virtu
     pip install pyttsx3
     pip install pyautogui
     pip install pyjokes
-    pip install openai
+    pip install openai (You can use Groq AI, as it offers its API to be used for free)
 Add your music folder path in Line 10 of main.py
 Add your openAI API key in line 21 of main.py
 
